@@ -381,6 +381,24 @@
         "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/AsyaFilmIzlesene.cs3",
         "name": "AsyaFilmIzlesene"
     },
+    {
+        "iconUrl": "https://images.seeklogo.com/logo-png/39/1/exxen-logo-png_seeklogo-395140.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Exxen",
+        "description": "Exxen",
+        "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/Exxen.cs3",
+        "name": "AsyaFilmIzlesene"
+    },
    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
