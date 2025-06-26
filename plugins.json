@@ -400,6 +400,24 @@
         "name": "Exxen"
     },
    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png?20230503164846",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Tabii",
+        "description": ".Tabii",
+        "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/Tabii.cs3",
+        "name": "Tabii"
+    },
+   {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/cs-kekikanime",
