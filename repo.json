@@ -3,6 +3,6 @@
     "description": "Türkçe Cloudstream eklentiler listesi",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/refs/heads/main/plugins.json"
+      "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/plugins.json"
     ]
 }
