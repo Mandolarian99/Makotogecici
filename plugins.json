@@ -435,6 +435,24 @@
         "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/Gain.cs3",
         "name": "Gain"
     },
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/S_Sport_Plus_Logo.png/960px-S_Sport_Plus_Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "SSportPlus",
+        "description": "SSportPlus",
+        "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/SSportPlus.cs3",
+        "name": "SSportPlus"
+    },
    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
