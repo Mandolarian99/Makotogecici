@@ -417,6 +417,24 @@
         "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/Tabii.cs3",
         "name": "Tabii"
     },
+     {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/tr/2/21/Gain_Medya_logosu.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Makoto Tokioki"
+        ],
+        "tvTypes": [
+            "Movie,TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Gain",
+        "description": "Gain",
+        "url": "https://raw.githubusercontent.com/Mandolarian99/Makotogecici/main/Gain.cs3",
+        "name": ".Gain"
+    },
    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
